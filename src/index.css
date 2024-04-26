@@ -1,0 +1,32 @@
+body{
+  background-color: #e5d3b3;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.box{
+  height:520px;
+  width: 380px;
+  background-color: #987554;
+  text-align: center;
+  border-radius: 5%;
+  margin: 30px;
+}
+
+.box-img{
+  padding-top: 20px;
+  height: 300px;
+  width: 250px;
+  border-radius: 15%;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
